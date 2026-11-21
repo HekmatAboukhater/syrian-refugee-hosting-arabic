@@ -1,0 +1,16 @@
+[
+  {
+    "file": "unhcr-snapshot.json",
+    "url": "https://api.unhcr.org/population/v1/population/?coo=SYR&coa_all=true&yearFrom=2011&yearTo=2024&limit=10000&cf_type=ISO",
+    "retrieved_utc": "2026-11-21T20:20:43.922872+00:00",
+    "sha256": "ab2dc059baad1bf48cab7e28ed1bc18e8ad857346f574272502304c99dca467d",
+    "bytes": 441598
+  },
+  {
+    "file": "world-bank-snapshot.json",
+    "url": "https://api.worldbank.org/v2/country/LBN;JOR;TUR;IRQ;EGY;DEU;SWE;CAN/indicator/SP.POP.TOTL?date=2011:2024&format=json&per_page=20000",
+    "retrieved_utc": "2026-11-21T20:20:43.299417+00:00",
+    "sha256": "e67e63511068562ddbf3a414fda00e7a410b96e11730247a908ab55ee43a4c9c",
+    "bytes": 22073
+  }
+]
